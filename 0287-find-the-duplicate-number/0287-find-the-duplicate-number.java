@@ -8,7 +8,6 @@ class Solution {
             fast = nums[nums[fast]];
         } while (slow != fast);
 
-        // Phase 2: Find the entrance of the cycle
         slow = nums[0];
 
         while (slow != fast) {
