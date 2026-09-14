@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulsaikia19/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulsaikia19/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/rahulsaikia19/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/rahulsaikia19/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulsaikia19/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulsaikia19/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/rahulsaikia19/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rahulsaikia19/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulsaikia19/LeetCode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
